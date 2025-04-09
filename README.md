@@ -31,4 +31,15 @@ response = openai.Completion.create(
 # Exibir a resposta
 print(response.choices[0].text.strip())
 ```
+Esse foi um exemplo de código que podemos usar para API do Azure OpenAI.
 
+# Semantic Kernel
+Semantic Kernel é uma ferramenta que permite integrar inteligência Artificial em fluxos de trabalho e aplicações,conbinando IA generativa com tecnicas de planejamento, memória e execução de tarefas.
+## Principais características do Semantic Kernel
+* Orquestração de Ações
+* Personalização
+* Integração com Diferentes Fontes de Dados
+* Escalabilidade
+* Open Source
+
+Resumindo, Semantic Kernel é uma ferramenta poderosa para desenvolvedores que desejam orquestrar e integrar modelos de linguagem avançados de forma inteligente e personalizada. Ele facilita a criação de fluxos de trabalho complexos, permitindo que você use IA de maneira mais estruturada e funcional, em vez de apenas enviar e receber texto de forma simples.
